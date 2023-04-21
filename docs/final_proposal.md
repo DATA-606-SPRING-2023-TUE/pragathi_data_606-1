@@ -75,15 +75,20 @@ NO2 1st Max Hour : The hour when the maximum NO2 concentration was recorded in a
 ### Models 
 There are many methods for forecasting the data.In this project i am using some popular ML models like 
 
-1.AR model
+1.linear regression
 
-2.MA model 
+2.logistic regression
 
-3.LSTM
+3.decission tree regression
 
-4.ARIMA
+4.random forest regression
 
-5.exponential smoothing
+5.MA model 
+
+6.AR model
+
+7.ARIMA
+
 
 for forecasting the future air quality index.I want to compare these models by calculating the RMSE value and want to pick the best model out of these models for predicting the future air quality index.
 
