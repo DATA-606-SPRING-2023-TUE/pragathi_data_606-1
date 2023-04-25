@@ -1,4 +1,5 @@
-# U.S Air Pollution forecasting using time series
+# US Air Pollution Prediction and Forecasting using Machine Learning Models
+
 
 ### Introduction
 
