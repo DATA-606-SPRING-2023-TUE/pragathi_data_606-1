@@ -17,7 +17,9 @@
 
 7.Comparision Of Models
 
-8.Conclusion
+8.Forecasting
+
+9.Conclusion
 
 
 
@@ -167,6 +169,10 @@ regression analysis is a set of statistical processes for estimating the relatio
 #### Time Series Models
 ARIMA:ARIMA models are generally denoted as ARIMA (p,d,q)  where p is the order of autoregressive model, d is the degree of differencing, and q is the order of moving-average model.
 
+p value is obtained by taking the optimum lag value from partial auto correlation function.
+
+q value is obtained by taking the optimum lag value from auto correlation function.
+
 5.MA model
 
 6.AR model
@@ -175,7 +181,40 @@ ARIMA:ARIMA models are generally denoted as ARIMA (p,d,q)  where p is the order 
 
 
 # 7.Comparision Of Models
+comparing all the machine learning models by considering Root Mean Square Error value(RMSE).Low the RMSE value it indicates the best model.
+
+<img width="673" alt="image" src="https://github.com/vunnampragathi/pragathi_data_606/assets/112585191/1aebe254-0f4c-43fb-a0e8-cfa25c7f25e2">
+
+From the above regression models it is observed that Random Forest has less RMSE value,it indicates that Random Forest is the best model for prediction compared to other models.
+
+<img width="673" alt="image" src="https://github.com/vunnampragathi/pragathi_data_606/assets/112585191/806ab5a3-b8cc-4721-a244-548ce40f835c">
+
+From the above time series models it is observed that Moving Average has less RMSE value,it indicates that Moving Average is best for forecasting the future values compared to other models.
 
 
 
-# 8.Conclusion
+# 8.Forecasting
+
+<img width="156" alt="image" src="https://github.com/vunnampragathi/pragathi_data_606/assets/112585191/9918cd12-e486-409a-8da7-77ac0e3664ac">
+
+Forecasted Air Quality Index values of california state for next 10 days using moving average model
+
+
+# 9.Conclusion
+
+From the above findings it is observed that,
+
+i)california has highest air pollution
+
+ii)Random Forest is the best model for prediction in Regression models
+
+iii)Moving Average is the best model for prediction in Time Series Models
+
+iv)Forecasted the next 10 days Air Quality Index of California
+
+
+#### ppt link:https://github.com/DATA-606-SPRING-2023-TUE/pragathi_data_606-1/blob/main/docs/Capstone.pptx
+
+#### you tube video link:
+
+
