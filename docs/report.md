@@ -2,6 +2,11 @@
 # US Air Pollution Prediction and Forecasting using Machine Learning Models
 
 
+#### ppt link:https://github.com/DATA-606-SPRING-2023-TUE/pragathi_data_606-1/blob/main/docs/Capstone.pptx
+
+#### you tube video link:https://youtu.be/fEPTsuvnjW8
+
+
 # Contents
 1.Objective
 
@@ -213,8 +218,6 @@ iii)Moving Average is the best model for prediction in Time Series Models
 iv)Forecasted the next 10 days Air Quality Index of California
 
 
-#### ppt link:https://github.com/DATA-606-SPRING-2023-TUE/pragathi_data_606-1/blob/main/docs/Capstone.pptx
 
-#### you tube video link:
 
 
